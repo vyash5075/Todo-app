@@ -1,0 +1,23 @@
+accent {
+    background-color: #2870ac;
+}
+
+.mat-card {
+    background:lightgreen;
+    color: rgba(0,0,0,.87);
+  }
+
+
+  .mat-fab.mat-accent, .mat-flat-button.mat-accent, .mat-mini-fab.mat-accent, .mat-raised-button.mat-accent {
+    background-color:rgb(99, 31, 163);
+}
+
+
+.mat-expansion-panel {
+    background:lightsalmon;
+    color: rgba(0,0,0,.87);
+    margin-bottom: 10px;
+}
+p{
+    color:black;
+}
