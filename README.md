@@ -2,7 +2,7 @@
 
 This procject was generated with [Angular CLI](https://github.co m/angular/angular-cli) versionm 8.3.x22...
 ,
-## Development server
+## Development server,
 B
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
