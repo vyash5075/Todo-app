@@ -1,6 +1,6 @@
 B# Todo-App122.jn
 
-This procject was generated with [Angular CLI](https://github.co m/angular/angular-cli) versionm 8.3.x22...
+This procjeect was generated with [Angular CLI](https://github.co m/angular/angular-cli) versionm 8.3.x22...
 ,
 ## Development server,
 B
